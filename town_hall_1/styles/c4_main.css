@@ -9,7 +9,8 @@ header img {
 	float: left;
 }
 .shadow {
-	text-shadow: 2px 2px 2px var(--global-color-1);
+	text-shadow: #800000;
+}
 header h2 {
 	color: #800000;
 }
