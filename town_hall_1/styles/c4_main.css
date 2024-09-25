@@ -11,7 +11,7 @@ header img {
 	float: left;
 }
 .shadow {
-	text-shadow: #800000;
+	text-shadow: 2px 2px 2px var(--global-color-1);
 }
 header h2 {
 	color: #800000;
