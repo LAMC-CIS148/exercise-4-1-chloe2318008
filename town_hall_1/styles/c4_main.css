@@ -10,11 +10,11 @@ a:focus, a:hover {
 header img {
 	float: left;
 }
-.shadow {
-	text-shadow: 2px 2px 2px var(--global-color-1);
-}
 header h2 {
 	color: #800000;
+}
+.shadow {
+	text-shadow: 2px 2px 2px var(--global-color-1);
 }
 /* the styles for the main content */
 main {
